@@ -1,6 +1,4 @@
 
+![Birinchi rasm](image-3.png)
 
-![Birinchi sahifaning rasmi](image.png)
-
-
-![Ikkinchi sahifaning rasmi](image-1.png)
+![Ikkinchi rasm](image-4.png)
